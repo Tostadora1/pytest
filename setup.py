@@ -2,6 +2,8 @@ from setuptools import setup
 
 # TODO: if py gets upgrade to >=1.6,
 #       remove _width_of_current_line in terminal.py
+#DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOUN'T
+#BUENARDO BUENARDO BUENARDOOOOOOOOOOOOOOOOOOOOO RESPETO FUERTE BUENARDISIMO
 INSTALL_REQUIRES = [
     "py>=1.5.0",
     "packaging",
